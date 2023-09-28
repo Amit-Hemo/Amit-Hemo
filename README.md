@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Amit-Hemo 
-- 🌱 I’m currently a software engineer student (4th year) and working on full stack projects but open for more fields.
-- 💞️ I’m looking to collaborate on any project that I can learn something new from and challenging as a student (stacks, languages, etc.)
+- 🌱 I’m a B.Sc software engineer student.
+- 🔤 Proficiency in JavaScript, TypeScript, React, NodeJS, Python, etc.
+- 💞️ I’m looking to collaborate on any project where I can learn something new and challenging (stacks, languages, etc.)
 - 📫 How to reach me: 
-     Linkedin profile -> www.linkedin.com/in/amit-hemo-a0a2a3218
-     Email -> itsamit442@gmail.com
+     - Linkedin profile -> https://www.linkedin.com/in/amit-hemo/
+     - Email -> itsamit442@gmail.com
 
 <!---
 Amit-Hemo/Amit-Hemo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
