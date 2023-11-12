@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amit-Hemo 
-- 🌱 I’m a B.Sc software engineer student.
+- 🌱 I’m a B.Sc Software Engineer | Web Developer.
 - 🔤 Proficiency in JavaScript, TypeScript, React, NodeJS, Python, etc.
 - 💞️ I’m looking to collaborate on any project where I can learn something new and challenging (stacks, languages, etc.)
 - 📫 How to reach me: 
