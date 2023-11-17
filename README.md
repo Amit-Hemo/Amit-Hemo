@@ -10,10 +10,10 @@
 
 <p align="center"> 
   <a href="https://linkedin.com/in/amit-hemo">  
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100"/>
   </a>
    <a href="mailto:itsamit442@gmail.com">  
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" width="82"/>
   </a>
 </p>
 
