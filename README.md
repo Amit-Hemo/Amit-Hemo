@@ -6,8 +6,8 @@
 
 <h3 align="center">A passionate B.Sc Software Engineer | Web Developer</h3>
 I consider myself proficient at Javascript development but I can also handle Typescript and Python well enough. <br>
-I enjoy reading about new tools, technologies, and topics daily, especially seeking new Nintendo games 🎮😉   <br>
-Recently, I've been attracted to distributed system design topics and subscribed to several news-tellers and YouTube channels to gain knowledge. <br>
+I enjoy reading about new tools, technologies, and topics daily, especially seeking new Nintendo games 🎮😉.   <br>
+Recently, I've been attracted to distributed system design and backend development topics and subscribed to several news-tellers and YouTube channels to gain knowledge. <br>
 </p>
 - 💞️ I’m looking to collaborate on any project where I can learn something new and challenging (stacks, languages, etc.)
 <br></br>
