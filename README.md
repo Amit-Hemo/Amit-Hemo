@@ -5,6 +5,9 @@
 </p>
 
 <h3 align="center">A passionate B.Sc Software Engineer | Web Developer</h3>
+Hey there, I'm a software engineer with a knack for web development.
+I enjoy reading about new tools, technologies, and topics daily, especially seeking new Nintendo games 🎮😉   
+Recently, I've been attracted to distributed system design topics and subscribed to several news-tellers and YouTube channels to gain knowledge.
 - 💞️ I’m looking to collaborate on any project where I can learn something new and challenging (stacks, languages, etc.)
 <br></br>
 
