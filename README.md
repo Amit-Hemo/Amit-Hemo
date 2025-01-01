@@ -13,10 +13,10 @@ Feel welcome to chat with me about tech and also about gaming (especially Ninten
 
 <p align="center"> 
   <a href="https://linkedin.com/in/amit-hemo">  
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80"/>
   </a>
    <a href="mailto:itsamit442@gmail.com">  
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" width="82"/>
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" width="83"/>
   </a>
 </p>
 
