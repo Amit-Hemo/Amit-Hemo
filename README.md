@@ -4,7 +4,7 @@
   <img src="https://github.com/Amit-Hemo/Amit-Hemo/assets/99415101/2069a8a0-b486-448a-b913-7124f2a68b22" width="200" />
 </p>
 
-<p> I’m a Software Engineer, with a B.Sc degree in Software Engineering and top honors (GPA 94), with hands-on experience designing and implementing various projects independently and collaboratively. My expertise spans a wide range of technologies and I'm excited to learn more and build new innovative solutions. </p>
+<p> I’m a Software Engineer, with a B.Sc degree in Software Engineering and top honors, with hands-on experience designing and implementing various projects independently and collaboratively. My expertise spans a wide range of technologies, and I'm excited to learn more and build new innovative solutions. </p>
 <p>🫱🏼‍🫲🏻 Feel welcome to reach out and collaborate with me for new projects or chat about tech and gaming (especially Nintendo 🎮, long relationship...) since this hooked me into tech in the first place.
 </p>
 
